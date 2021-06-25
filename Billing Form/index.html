@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+</head>
+<body>
+    
+
+    <div class="container">
+
+        <h1 class="text-center display-4 mb-5">Part-1</h1>
+
+        <form action="https://formspree.io/f/moqywqqk" method="POST">
+
+            <h4>Billing Addess</h4>
+
+            <!--! form-group-->
+            <div class="form-group">
+                <label for="full-name">Full Name</label>
+                <input class="form-control" type="text" id="full-name" name="full-name" placeholder="Full Name">
+            </div>
+
+
+            <!--! form-group-->
+            <div class="form-group">
+                <label for="user-name">Username</label>
+
+                <div class="input-group">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text">@</span>
+                    </div>
+    
+                    <input class="form-control" type="text" id="user-name" name="user-name" placeholder="Full Name">
+                </div>
+            </div>
+
+
+            <!--! form-group -->
+            <div class="form-group">
+                <label for="email">Email <span class="text-muted">(Optional)</span></label>
+                <input class="form-control" type="email" id="email" name="email" placeholder="you@example.com">
+            </div>
+
+
+            <!--! form-group -->
+            <div class="form-group">
+                <label for="address-1">Address</label>
+                <input class="form-control" type="text" id="address-1" name="address-1" placeholder="1234 Marker St.">
+            </div>
+
+
+            <!--! form-group -->
+            <div class="form-group">
+                <label for="address-2">Address 2 <span class="text-muted">(Optional)</span></label>
+                <input class="form-control" type="text" id="address-2" name="address-2" placeholder="Apartment or Suite">
+            </div>
+
+
+            <!--! form-group -->
+            <div class="form-group">
+                <label for="notes">Special Notes <span class="text-muted">(Optional)</span></label>
+                <textarea class="form-control" name="notes" id="notes" cols="30" rows="5"></textarea>
+                <small class="text-muted">Include any special requests you have for us!</small>
+            </div>
+
+
+            <!-- !form-group -->
+            <div class="form-group">
+
+                <!--* form-check -->
+                <div class="form-check custom-control custom-checkbox">
+                    <input class="form-check-input custom-control-input" type="checkbox" id="shipping-address-same-as-billing" name="shipping-address-same-as-billing">
+                    <label class="form-check-label custom-control-label" for="shipping-address-same-as-billing">Shipping address is same as billing</label>
+                </div>
+
+
+                <!--* form-check -->
+                <div class="form-check custom-control custom-checkbox">
+                    <input class="form-check-input custom-control-input" type="checkbox" id="save-info-for-next-time" name="save-info-for-next-time">
+                    <label class="form-check-label custom-control-label" for="save-info-for-next-time">Save my info for next time</label>
+                </div>
+            </div>
+
+
+            <!-- !horizontal-line -->
+            <hr>
+
+
+            <!-- !form-group -->
+            <div class="form-group my-5">
+                
+                <h4>Shipping Options</h4>
+
+                <!--* form-check -->
+                <div class="form-check custom-control custom-radio">
+                    <input class="form-check-input custom-control-input" type="radio" id="same-day-shipping" name="shipping" value="same-day-shipping">
+                    <label class="form-check-label custom-control-label" for="same-day-shipping">Same day Shipping</label>
+                </div>
+
+
+                <!--* form-check -->
+                <div class="form-check custom-control custom-radio">
+                    <input class="form-check-input custom-control-input" type="radio" id="next-day-shipping" name="shipping" value="next-day-shipping">
+                    <label class="form-check-label custom-control-label" for="next-day-shipping">Next day Shipping</label>
+                </div>
+
+
+                <!--* form-check -->
+                <div class="form-check custom-control custom-radio">
+                    <input class="form-check-input custom-control-input" type="radio" id="3to5-day-shipping" name="shipping" value="3to5-day-shipping">
+                    <label class="form-check-label custom-control-label" for="3to5-day-shipping">3-5 Business Days</label>
+                </div>
+            </div>
+
+
+            <!-- !button -->
+            <button class="btn btn-primary btn-block">Continue to Checkout</button>
+
+        </form>
+
+    </div>
+
+
+    
+
+    <!-- bootstrap CDN -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+</body>
+</html>
