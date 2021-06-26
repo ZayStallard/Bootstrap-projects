@@ -1,0 +1,5 @@
+.carousel-inner img{
+    height: 300px;
+    object-position: top;
+    object-fit: cover;
+}
