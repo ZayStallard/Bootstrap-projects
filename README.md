@@ -1,13 +1,13 @@
 # Bootstrap-projects
 This repo consists of some projects coded using HTML &amp; Bootstrap. These projects can be viewed using the below links.  
 
-**Aurora Grove Website: https://ajay-aurora-grove.netlify.app/  
+** Aurora Grove Website: https://ajay-aurora-grove.netlify.app/  
 
-*(A fictional camping website coded completely using HTML, CSS, Bootstrap & Formspree. Many advanced features of bootstrap like carousels, Modals, cards & grid are incorporated into this website. One more special trait about this website is, clients can book their camp directly from the website by clicking on 'BOOK NOW' and specifying their details. All the user data collected will be securely stored in Formspree.)  
+* (A fictional camping website coded completely using HTML, CSS, Bootstrap & Formspree. Many advanced features of bootstrap like carousels, Modals, cards & grid are incorporated into this website. One more special trait about this website is, clients can book their camp directly from the website by clicking on 'BOOK NOW' and specifying their details. All the user data collected will be securely stored in Formspree.)  
   
 &nbsp;  
 
-**Billing Form: https://codepen.io/ajayStallard/pen/PopMQGj  
+** Billing Form: https://codepen.io/ajayStallard/pen/PopMQGj  
 Carousel: https://codepen.io/ajayStallard/pen/KKmPWBq  
 Responsive Navbar: https://codepen.io/ajayStallard/pen/vYxobWg  
 Responsive Form using Grid: https://codepen.io/ajayStallard/pen/QWpeRLO  
