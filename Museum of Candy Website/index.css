@@ -105,7 +105,7 @@ img{
 
 
 /* ?why below code
-?coz, to adjust left & right gap of images*/
+?coz, to adjust left & right gap of images which is inevitable when placed in container-fluid's grid column*/
 img{
   margin-left: -3%;
   width: 107%;
