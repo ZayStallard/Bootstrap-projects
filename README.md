@@ -14,7 +14,7 @@ This repo consists of some projects coded using HTML &amp; Bootstrap. These proj
 &nbsp;  
 
 **Museum of Candy Website: https://ajay-museum-of-candy.netlify.app/**  
-*(A Completely Responsive website coded solely using HTML, CSS, Bootstrap & Formspree, this website is an application of Bootstrap-Grid-Utility)*  
+*(A Completely Responsive website coded solely using HTML, CSS & Bootstrap, this website is an application of Bootstrap-Grid-Utility)*  
   
 &nbsp;  
 
