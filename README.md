@@ -18,8 +18,8 @@ This repo consists of some projects coded using HTML &amp; Bootstrap. These proj
   
 &nbsp;  
 
-**Responsive Navbar: https://codepen.io/ajayStallard/pen/vYxobWg**  
 **Responsive Form using Grid: https://codepen.io/ajayStallard/pen/QWpeRLO**  
+**Responsive Navbar: https://codepen.io/ajayStallard/pen/vYxobWg**  
 **Sign-In Form: https://codepen.io/ajayStallard/pen/zYZgRKV**  
 
 
