@@ -1,6 +1,6 @@
 # Bootstrap-projects
 
-This repo consists of some projects coded by me using HTML, CSS, Bootstrap & Formspree. These projects can be viewed using the below links.
+This repo consists of some stunning projects like fully responsive websites, carousels, responsive-forms & navbars which are coded by me solely using HTML, CSS, Bootstrap & Formspree. These projects can be viewed using the below links.
 
 &nbsp;
 
