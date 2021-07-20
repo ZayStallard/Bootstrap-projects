@@ -4,7 +4,7 @@ This repo consists of some stunning projects like fully responsive websites, car
 
 &nbsp;
 
-**Aurora Grove Website: https://ajay-aurora-grove.netlify.app/**  
+**Aurora Grove Website: https://zay-aurora-grove.netlify.app/**  
 _:arrow_right:(It's a Completely Responsive fictional camping website. Many advanced features of bootstrap like carousels, Modals, cards & grid are incorporated into this website. One more special trait about this website is, clients can book their camp directly from the website by clicking on 'BOOK NOW' and specifying their details. All the user data collected will be securely stored in Formspree.)_
 
 &nbsp;
@@ -14,7 +14,7 @@ _:arrow_right:(It's a Completely Responsive fictional camping website. Many adva
 
 &nbsp;
 
-**Museum of Candy Website: https://ajay-museum-of-candy.netlify.app/**  
+**Museum of Candy Website: https://zay-museum-of-candy.netlify.app/**  
 _:arrow_right:(A Completely Responsive website which is an application of Bootstrap-Grid-Utility.)_
 
 &nbsp;
