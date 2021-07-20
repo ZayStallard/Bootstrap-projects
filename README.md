@@ -9,8 +9,8 @@ _:arrow_right:(It's a Completely Responsive fictional camping website. Many adva
 
 &nbsp;
 
-**Billing Form: https://codepen.io/ajayStallard/pen/PopMQGj**  
-**Carousel: https://codepen.io/ajayStallard/pen/KKmPWBq**
+**Billing Form: https://codepen.io/zayStallard/pen/PopMQGj**  
+**Carousel: https://codepen.io/zayStallard/pen/KKmPWBq**
 
 &nbsp;
 
