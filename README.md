@@ -19,6 +19,6 @@ _:arrow_right:(A Completely Responsive website which is an application of Bootst
 
 &nbsp;
 
-**Responsive Form using Grid: https://codepen.io/ajayStallard/pen/QWpeRLO**  
-**Responsive Navbar: https://codepen.io/ajayStallard/pen/vYxobWg**  
-**Sign-In Form: https://codepen.io/ajayStallard/pen/zYZgRKV**
+**Responsive Form using Grid: https://codepen.io/zayStallard/pen/QWpeRLO**  
+**Responsive Navbar: https://codepen.io/zayStallard/pen/vYxobWg**  
+**Sign-In Form: https://codepen.io/zayStallard/pen/zYZgRKV**
